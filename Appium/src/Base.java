@@ -15,6 +15,7 @@ public class Base {
 		//Section take 60sec to close
 		//Close the connection to start again (to close ctrl+c)
 		//Cd C:\Users\robert\AppData\Local\Android\Sdk\platform-tools>emulator -avd RobertEmulator
+		//Change
 		
 		File f = new File("src");
 		File fs = new File(f,"ApiDemos-debug.apk");
